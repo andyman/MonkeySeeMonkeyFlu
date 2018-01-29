@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: bd9c7d82f8c73b24dad19f42fd99bae7
+timeCreated: 1517181498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: foam
+    100002: foamEmmiter
+    100004: foamEmmiter|foam|Dupli|1910.0.0.0.0.0.0.0.0.0
+    100006: foamEmmiter|foam|Dupli|1911.0.0.0.0.0.0.0.0.0
+    100008: foamEmmiter|foam|Dupli|1912.0.0.0.0.0.0.0.0.0
+    100010: foamEmmiter|foam|Dupli|1913.0.0.0.0.0.0.0.0.0
+    100012: foamEmmiter|foam|Dupli|1914.0.0.0.0.0.0.0.0.0
+    100014: foamEmmiter|foam|Dupli|1915.0.0.0.0.0.0.0.0.0
+    100016: foamEmmiter|foam|Dupli|1916.0.0.0.0.0.0.0.0.0
+    100018: foamEmmiter|foam|Dupli|1917.0.0.0.0.0.0.0.0.0
+    100020: foamEmmiter|foam|Dupli|1918.0.0.0.0.0.0.0.0.0
+    100022: foamEmmiter|foam|Dupli|1919.0.0.0.0.0.0.0.0.0
+    100024: foamEmmiter|foam|Dupli|1920.0.0.0.0.0.0.0.0.0
+    100026: foamEmmiter|foam|Dupli|1921.0.0.0.0.0.0.0.0.0
+    100028: foamEmmiter|foam|Dupli|1922.0.0.0.0.0.0.0.0.0
+    100030: foamEmmiter|foam|Dupli|1923.0.0.0.0.0.0.0.0.0
+    100032: foamEmmiter|foam|Dupli|1924.0.0.0.0.0.0.0.0.0
+    100034: foamEmmiter|foam|Dupli|1925.0.0.0.0.0.0.0.0.0
+    100036: foamEmmiter|foam|Dupli|1926.0.0.0.0.0.0.0.0.0
+    100038: foamEmmiter|foam|Dupli|1927.0.0.0.0.0.0.0.0.0
+    100040: foamEmmiter|foam|Dupli|1928.0.0.0.0.0.0.0.0.0
+    100042: //RootNode
+    100044: waterFall
+    400000: foam
+    400002: foamEmmiter
+    400004: foamEmmiter|foam|Dupli|1910.0.0.0.0.0.0.0.0.0
+    400006: foamEmmiter|foam|Dupli|1911.0.0.0.0.0.0.0.0.0
+    400008: foamEmmiter|foam|Dupli|1912.0.0.0.0.0.0.0.0.0
+    400010: foamEmmiter|foam|Dupli|1913.0.0.0.0.0.0.0.0.0
+    400012: foamEmmiter|foam|Dupli|1914.0.0.0.0.0.0.0.0.0
+    400014: foamEmmiter|foam|Dupli|1915.0.0.0.0.0.0.0.0.0
+    400016: foamEmmiter|foam|Dupli|1916.0.0.0.0.0.0.0.0.0
+    400018: foamEmmiter|foam|Dupli|1917.0.0.0.0.0.0.0.0.0
+    400020: foamEmmiter|foam|Dupli|1918.0.0.0.0.0.0.0.0.0
+    400022: foamEmmiter|foam|Dupli|1919.0.0.0.0.0.0.0.0.0
+    400024: foamEmmiter|foam|Dupli|1920.0.0.0.0.0.0.0.0.0
+    400026: foamEmmiter|foam|Dupli|1921.0.0.0.0.0.0.0.0.0
+    400028: foamEmmiter|foam|Dupli|1922.0.0.0.0.0.0.0.0.0
+    400030: foamEmmiter|foam|Dupli|1923.0.0.0.0.0.0.0.0.0
+    400032: foamEmmiter|foam|Dupli|1924.0.0.0.0.0.0.0.0.0
+    400034: foamEmmiter|foam|Dupli|1925.0.0.0.0.0.0.0.0.0
+    400036: foamEmmiter|foam|Dupli|1926.0.0.0.0.0.0.0.0.0
+    400038: foamEmmiter|foam|Dupli|1927.0.0.0.0.0.0.0.0.0
+    400040: foamEmmiter|foam|Dupli|1928.0.0.0.0.0.0.0.0.0
+    400042: waterFall
+    400044: //RootNode
+    2100000: No Name
+    2100002: Material.002
+    2100004: Material.001
+    2300000: foam
+    2300002: foamEmmiter
+    2300004: foamEmmiter|foam|Dupli|1910.0.0.0.0.0.0.0.0.0
+    2300006: foamEmmiter|foam|Dupli|1911.0.0.0.0.0.0.0.0.0
+    2300008: foamEmmiter|foam|Dupli|1912.0.0.0.0.0.0.0.0.0
+    2300010: foamEmmiter|foam|Dupli|1913.0.0.0.0.0.0.0.0.0
+    2300012: foamEmmiter|foam|Dupli|1914.0.0.0.0.0.0.0.0.0
+    2300014: foamEmmiter|foam|Dupli|1915.0.0.0.0.0.0.0.0.0
+    2300016: foamEmmiter|foam|Dupli|1916.0.0.0.0.0.0.0.0.0
+    2300018: foamEmmiter|foam|Dupli|1917.0.0.0.0.0.0.0.0.0
+    2300020: foamEmmiter|foam|Dupli|1918.0.0.0.0.0.0.0.0.0
+    2300022: foamEmmiter|foam|Dupli|1919.0.0.0.0.0.0.0.0.0
+    2300024: foamEmmiter|foam|Dupli|1920.0.0.0.0.0.0.0.0.0
+    2300026: foamEmmiter|foam|Dupli|1921.0.0.0.0.0.0.0.0.0
+    2300028: foamEmmiter|foam|Dupli|1922.0.0.0.0.0.0.0.0.0
+    2300030: foamEmmiter|foam|Dupli|1923.0.0.0.0.0.0.0.0.0
+    2300032: foamEmmiter|foam|Dupli|1924.0.0.0.0.0.0.0.0.0
+    2300034: foamEmmiter|foam|Dupli|1925.0.0.0.0.0.0.0.0.0
+    2300036: foamEmmiter|foam|Dupli|1926.0.0.0.0.0.0.0.0.0
+    2300038: foamEmmiter|foam|Dupli|1927.0.0.0.0.0.0.0.0.0
+    2300040: foamEmmiter|foam|Dupli|1928.0.0.0.0.0.0.0.0.0
+    2300042: waterFall
+    3300000: foam
+    3300002: foamEmmiter
+    3300004: foamEmmiter|foam|Dupli|1910.0.0.0.0.0.0.0.0.0
+    3300006: foamEmmiter|foam|Dupli|1911.0.0.0.0.0.0.0.0.0
+    3300008: foamEmmiter|foam|Dupli|1912.0.0.0.0.0.0.0.0.0
+    3300010: foamEmmiter|foam|Dupli|1913.0.0.0.0.0.0.0.0.0
+    3300012: foamEmmiter|foam|Dupli|1914.0.0.0.0.0.0.0.0.0
+    3300014: foamEmmiter|foam|Dupli|1915.0.0.0.0.0.0.0.0.0
+    3300016: foamEmmiter|foam|Dupli|1916.0.0.0.0.0.0.0.0.0
+    3300018: foamEmmiter|foam|Dupli|1917.0.0.0.0.0.0.0.0.0
+    3300020: foamEmmiter|foam|Dupli|1918.0.0.0.0.0.0.0.0.0
+    3300022: foamEmmiter|foam|Dupli|1919.0.0.0.0.0.0.0.0.0
+    3300024: foamEmmiter|foam|Dupli|1920.0.0.0.0.0.0.0.0.0
+    3300026: foamEmmiter|foam|Dupli|1921.0.0.0.0.0.0.0.0.0
+    3300028: foamEmmiter|foam|Dupli|1922.0.0.0.0.0.0.0.0.0
+    3300030: foamEmmiter|foam|Dupli|1923.0.0.0.0.0.0.0.0.0
+    3300032: foamEmmiter|foam|Dupli|1924.0.0.0.0.0.0.0.0.0
+    3300034: foamEmmiter|foam|Dupli|1925.0.0.0.0.0.0.0.0.0
+    3300036: foamEmmiter|foam|Dupli|1926.0.0.0.0.0.0.0.0.0
+    3300038: foamEmmiter|foam|Dupli|1927.0.0.0.0.0.0.0.0.0
+    3300040: foamEmmiter|foam|Dupli|1928.0.0.0.0.0.0.0.0.0
+    3300042: waterFall
+    4300000: foamEmmiter
+    4300002: foamEmmiter|foam|Dupli|1910.0.0.0.0.0.0.0.0.0
+    4300004: waterFall
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

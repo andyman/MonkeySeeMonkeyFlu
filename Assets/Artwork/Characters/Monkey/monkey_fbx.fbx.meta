@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 6b512a7c8ef001b4e8babd3602cf2013
+timeCreated: 1517049371
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: chest
+    100004: ear.L
+    100006: ear.L_end
+    100008: ear.R
+    100010: ear.R_end
+    100012: foot.L
+    100014: foot.L_end
+    100016: foot.R
+    100018: foot.R_end
+    100020: forearm.L
+    100022: forearm.R
+    100024: hand.L
+    100026: hand.L_end
+    100028: hand.R
+    100030: hand.R_end
+    100032: head
+    100034: hips
+    100036: IK_elbow.L
+    100038: IK_elbow.L_end
+    100040: IK_elbow.R
+    100042: IK_elbow.R_end
+    100044: IK_foot.L
+    100046: IK_foot.L_end
+    100048: IK_foot.R
+    100050: IK_foot.R_end
+    100052: IK_hand.L
+    100054: IK_hand.L_end
+    100056: IK_hand.R
+    100058: IK_hand.R_end
+    100060: IK_knee.L
+    100062: IK_knee.L_end
+    100064: IK_knee.R
+    100066: IK_knee.R_end
+    100068: lower_jaw
+    100070: lower_jaw_end
+    100072: Monkey
+    100074: //RootNode
+    100076: neck
+    100078: shin.L
+    100080: shin.R
+    100082: shoulder.L
+    100084: shoulder.R
+    100086: spine
+    100088: tail
+    100090: tail.001
+    100092: tail.002
+    100094: tail.003
+    100096: tail.004
+    100098: tail.004_end
+    100100: thigh.L
+    100102: thigh.R
+    100104: torso
+    100106: upper_arm.L
+    100108: upper_arm.R
+    100110: upper_jaw
+    100112: upper_jaw_end
+    100114: tongue
+    100116: tongue_end
+    400000: Armature
+    400002: chest
+    400004: ear.L
+    400006: ear.L_end
+    400008: ear.R
+    400010: ear.R_end
+    400012: foot.L
+    400014: foot.L_end
+    400016: foot.R
+    400018: foot.R_end
+    400020: forearm.L
+    400022: forearm.R
+    400024: hand.L
+    400026: hand.L_end
+    400028: hand.R
+    400030: hand.R_end
+    400032: head
+    400034: hips
+    400036: IK_elbow.L
+    400038: IK_elbow.L_end
+    400040: IK_elbow.R
+    400042: IK_elbow.R_end
+    400044: IK_foot.L
+    400046: IK_foot.L_end
+    400048: IK_foot.R
+    400050: IK_foot.R_end
+    400052: IK_hand.L
+    400054: IK_hand.L_end
+    400056: IK_hand.R
+    400058: IK_hand.R_end
+    400060: IK_knee.L
+    400062: IK_knee.L_end
+    400064: IK_knee.R
+    400066: IK_knee.R_end
+    400068: lower_jaw
+    400070: lower_jaw_end
+    400072: Monkey
+    400074: //RootNode
+    400076: neck
+    400078: shin.L
+    400080: shin.R
+    400082: shoulder.L
+    400084: shoulder.R
+    400086: spine
+    400088: tail
+    400090: tail.001
+    400092: tail.002
+    400094: tail.003
+    400096: tail.004
+    400098: tail.004_end
+    400100: thigh.L
+    400102: thigh.R
+    400104: torso
+    400106: upper_arm.L
+    400108: upper_arm.R
+    400110: upper_jaw
+    400112: upper_jaw_end
+    400114: tongue
+    400116: tongue_end
+    2100000: Monkey
+    4300000: Monkey
+    7400000: Armature|ear_additive_up
+    7400002: Armature|head_additive_down
+    7400004: Armature|head_additive_L
+    7400006: Armature|head_additive_up
+    7400008: Armature|head_tilt_additive_L
+    7400010: Armature|hips_additive_backwards
+    7400012: Armature|hips_additive_down
+    7400014: Armature|hips_additive_forward
+    7400016: Armature|hips_additive_L
+    7400018: Armature|mouth_additive.close
+    7400020: Armature|scratch_additive_left
+    7400022: Armature|Stand_base
+    7400024: Armature|T-pose
+    7400026: Armature|walk
+    7400028: Armature|scratch_additive_left2
+    7400030: Armature|tail_additive_curled
+    7400032: Armature|arm_additive.out.L.001
+    7400034: Armature|arm_additive.up.L
+    7400036: Armature|scratch_butt_left
+    7400038: Armature|HoldingBanana
+    7400040: Armature|jump
+    7400042: Armature|sleep
+    7400044: Armature|Dancing
+    9500000: //RootNode
+    13700000: Monkey
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Armature|mouth_additive.close' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'lower_jaw' has translation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ear_additive_up
+      takeName: Armature|ear_additive_up
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|head_additive_down
+      takeName: Armature|head_additive_down
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|head_additive_L
+      takeName: Armature|head_additive_L
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|head_additive_up
+      takeName: Armature|head_additive_up
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|head_tilt_additive_L
+      takeName: Armature|head_tilt_additive_L
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|hips_additive_backwards
+      takeName: Armature|hips_additive_backwards
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|hips_additive_down
+      takeName: Armature|hips_additive_down
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|hips_additive_forward
+      takeName: Armature|hips_additive_forward
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|hips_additive_L
+      takeName: Armature|hips_additive_L
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|mouth_additive.close
+      takeName: Armature|mouth_additive.close
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 0
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 0
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 0
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 0
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 0
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 0
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|scratch_additive_left
+      takeName: Armature|scratch_additive_left
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|scratch_additive_left2
+      takeName: Armature|scratch_additive_left2
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Stand_base
+      takeName: Armature|Stand_base
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|T-pose
+      takeName: Armature|T-pose
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk
+      takeName: Armature|walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|tail_additive_curled
+      takeName: Armature|tail_additive_curled
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|arm_additive.out.L.001
+      takeName: Armature|arm_additive.out.L.001
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|arm_additive.up.L
+      takeName: Armature|arm_additive.up.L
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|scratch_butt_left
+      takeName: Armature|scratch_butt_left
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|HoldingBanana
+      takeName: Armature|HoldingBanana
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|jump
+      takeName: Armature|jump
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|sleep
+      takeName: Armature|sleep
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Dancing
+      takeName: Armature|Dancing
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/IK_elbow.L
+        weight: 0
+      - path: Armature/hips/IK_elbow.L/IK_elbow.L_end
+        weight: 0
+      - path: Armature/hips/IK_elbow.R
+        weight: 0
+      - path: Armature/hips/IK_elbow.R/IK_elbow.R_end
+        weight: 0
+      - path: Armature/hips/IK_hand.L
+        weight: 0
+      - path: Armature/hips/IK_hand.L/IK_hand.L_end
+        weight: 0
+      - path: Armature/hips/IK_hand.R
+        weight: 0
+      - path: Armature/hips/IK_hand.R/IK_hand.R_end
+        weight: 0
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/tail
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004
+        weight: 1
+      - path: Armature/hips/spine/tail/tail.001/tail.002/tail.003/tail.004/tail.004_end
+        weight: 1
+      - path: Armature/hips/spine/torso
+        weight: 1
+      - path: Armature/hips/spine/torso/chest
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.L/ear.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/ear.R/ear.R_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/lower_jaw/tongue/tongue_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/neck/head/upper_jaw/upper_jaw_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 0
+      - path: Armature/hips/spine/torso/chest/shoulder.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Armature/hips/spine/torso/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 0
+      - path: Armature/hips/thigh.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 0
+      - path: Armature/hips/thigh.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 0
+      - path: Armature/IK_foot.L
+        weight: 0
+      - path: Armature/IK_foot.L/IK_foot.L_end
+        weight: 0
+      - path: Armature/IK_foot.R
+        weight: 0
+      - path: Armature/IK_foot.R/IK_foot.R_end
+        weight: 0
+      - path: Armature/IK_knee.L
+        weight: 0
+      - path: Armature/IK_knee.L/IK_knee.L_end
+        weight: 0
+      - path: Armature/IK_knee.R
+        weight: 0
+      - path: Armature/IK_knee.R/IK_knee.R_end
+        weight: 0
+      - path: Monkey
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: torso
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ear.L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ear.R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lower_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: monkey_fbx(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: monkey_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: hips
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0.0051868157}
+      rotation: {x: 0.5, y: -0.5, z: 0.49999994, w: -0.5000001}
+      scale: {x: 0.99999934, y: 0.9999998, z: 0.9999995}
+    - name: spine
+      parentName: hips
+      position: {x: -0, y: 0.0013263118, z: 0}
+      rotation: {x: -0.7071068, y: -0.000000029802322, z: -0.7071067, w: -0.00000002980232}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: torso
+      parentName: spine
+      position: {x: -0, y: 0.0022582063, z: 0}
+      rotation: {x: -0, y: 5.293956e-23, z: -1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: chest
+      parentName: torso
+      position: {x: -0, y: 0.001975931, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: neck
+      parentName: chest
+      position: {x: -0, y: 0.0017995083, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: neck
+      position: {x: -0, y: 0.00081154285, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_jaw
+      parentName: head
+      position: {x: 1.3632419e-18, y: 0.0029286146, z: 0.00071980286}
+      rotation: {x: 0.000007659197, y: 0.6574273, z: 0.753518, w: 0.0000066002367}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000004}
+    - name: upper_jaw_end
+      parentName: upper_jaw
+      position: {x: -0, y: 0.004059915, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower_jaw
+      parentName: head
+      position: {x: 1.5776001e-18, y: 0.0019632303, z: 0.0010839386}
+      rotation: {x: 0.00000035762787, y: 0.54562646, z: 0.8380285, w: 0.00000019095613}
+      scale: {x: 1.0000007, y: 1.0000002, z: 0.9999999}
+    - name: lower_jaw_end
+      parentName: lower_jaw
+      position: {x: -0, y: 0.0035373156, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ear.L
+      parentName: head
+      position: {x: -0.0037260388, y: 0.004579927, z: 0.0015163376}
+      rotation: {x: -0.39576924, y: 0.58597505, z: 0.39576918, w: 0.5859751}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1.0000007}
+    - name: ear.L_end
+      parentName: ear.L
+      position: {x: -0, y: 0.0035145874, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ear.R
+      parentName: head
+      position: {x: 0.0037260388, y: 0.004579927, z: 0.0015163376}
+      rotation: {x: -0.3957692, y: -0.58597505, z: -0.39576915, w: 0.58597517}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: ear.R_end
+      parentName: ear.R
+      position: {x: -0, y: 0.0035145874, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.L
+      parentName: chest
+      position: {x: -0, y: 0.0017995083, z: 0}
+      rotation: {x: 0.51280564, y: -0.4868577, z: -0.5128056, w: -0.48685774}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: upper_arm.L
+      parentName: shoulder.L
+      position: {x: 3.330669e-17, y: 0.0027205672, z: 1.2107193e-10}
+      rotation: {x: 0.010376227, y: 0.000000029802315, z: 0.00000029802317, w: 0.9999462}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: forearm.L
+      parentName: upper_arm.L
+      position: {x: 0.0000000011920929, y: 0.0041505382, z: 4.2840836e-10}
+      rotation: {x: 0.004856705, y: -0.000000037614537, z: -0.00000008264296, w: 0.9999882}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: -1.5566001e-10, y: 0.002871947, z: 1.4043053e-10}
+      rotation: {x: 0.0059116245, y: 0.00000007547324, z: -0.000000024992843, w: 0.99998254}
+      scale: {x: 0.9999995, y: 0.99999917, z: 0.9999996}
+    - name: hand.L_end
+      parentName: hand.L
+      position: {x: -0, y: 0.002493241, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R
+      parentName: chest
+      position: {x: -0, y: 0.0017995083, z: 0}
+      rotation: {x: 0.51280564, y: 0.48685765, z: 0.5128055, w: -0.4868577}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000006}
+    - name: upper_arm.R
+      parentName: shoulder.R
+      position: {x: -3.330669e-17, y: 0.0027205672, z: 1.2107193e-10}
+      rotation: {x: 0.010376304, y: 0.000000014901161, z: -0.00000020861626, w: 0.99994624}
+      scale: {x: 1, y: 1.0000006, z: 1.0000001}
+    - name: forearm.R
+      parentName: upper_arm.R
+      position: {x: -0.000000001490116, y: 0.0041505382, z: 6.1467287e-10}
+      rotation: {x: 0.0048566754, y: 0.00000009546743, z: -0.00000002988413, w: 0.9999882}
+      scale: {x: 1.0000011, y: 1.0000014, z: 1.000001}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: 1.9900198e-10, y: 0.0028719471, z: 1.1473957e-10}
+      rotation: {x: 0.005911685, y: -0.00000016166307, z: 0.0000000699163, w: 0.99998254}
+      scale: {x: 1, y: 0.9999997, z: 1}
+    - name: hand.R_end
+      parentName: hand.R
+      position: {x: -0, y: 0.002493241, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tail
+      parentName: spine
+      position: {x: -0, y: 0.0022582063, z: 0}
+      rotation: {x: 0.8971374, y: 0.000000022910351, z: 0.000000029802326, w: -0.44175172}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: tail.001
+      parentName: tail
+      position: {x: 1.5881867e-24, y: 0.0020094027, z: 4.4703483e-10}
+      rotation: {x: -0.14965451, y: 0.000000100638964, z: 0.000000008993766, w: 0.9887384}
+      scale: {x: 1, y: 1.0000007, z: 1.0000007}
+    - name: tail.002
+      parentName: tail.001
+      position: {x: 7.2662496e-17, y: 0.0015296292, z: 1.4901161e-10}
+      rotation: {x: -0.2167593, y: 0.00000015075629, z: -0.000000032815112, w: -0.9762251}
+      scale: {x: 1, y: 1.0000007, z: 1.0000006}
+    - name: tail.003
+      parentName: tail.002
+      position: {x: -2.858736e-23, y: 0.0011853015, z: 1.4901161e-10}
+      rotation: {x: 0.44411603, y: -0.0000000046391544, z: -0.000000067077906, w: 0.8959693}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: tail.004
+      parentName: tail.003
+      position: {x: 1.0587912e-24, y: 0.00087835937, z: -1.4901161e-10}
+      rotation: {x: 0.35027245, y: 0.00000014731451, z: 0.00000006629821, w: 0.93664795}
+      scale: {x: 1, y: 0.99999976, z: 1.0000002}
+    - name: tail.004_end
+      parentName: tail.004
+      position: {x: -0, y: 0.0011177819, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: hips
+      position: {x: -9.064669e-11, y: 0.0013263118, z: -0.0012006517}
+      rotation: {x: -0.000000029802322, y: -0.7071067, z: 0.000000029802319, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: -7.451252e-11, y: 0.0019759296, z: 2.9744116e-10}
+      rotation: {x: 1.7763568e-15, y: -0, z: 1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: foot.L
+      parentName: shin.L
+      position: {x: -7.4504555e-11, y: 0.0016003248, z: -2.1943348e-13}
+      rotation: {x: 0.00000031379102, y: 0.7482314, z: -0.66343784, w: -0.00000032782555}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000002}
+    - name: foot.L_end
+      parentName: foot.L
+      position: {x: -0, y: 0.0024166368, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_hand.L
+      parentName: hips
+      position: {x: -0.0000000011788558, y: 0.0022317248, z: -0.0032654214}
+      rotation: {x: -0.50000006, y: 0.49999997, z: -0.49999997, w: -0.50000006}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: IK_hand.L_end
+      parentName: IK_hand.L
+      position: {x: -0, y: 0.0028229444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_elbow.L
+      parentName: hips
+      position: {x: -0.010791223, y: -0.0008260405, z: -0.0045164097}
+      rotation: {x: -0.50000006, y: 0.5, z: -0.5, w: -0.50000006}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: IK_elbow.L_end
+      parentName: IK_elbow.L
+      position: {x: -0, y: 0.002539389, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R
+      parentName: hips
+      position: {x: 9.064669e-11, y: 0.0013263118, z: 0.0012006517}
+      rotation: {x: -0.000000029802322, y: -0.7071067, z: 0.000000029802319, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: 7.449909e-11, y: 0.0019759296, z: 2.9744113e-10}
+      rotation: {x: 1.7763568e-15, y: -0, z: 1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: foot.R
+      parentName: shin.R
+      position: {x: 7.450705e-11, y: 0.0016003248, z: -2.1946876e-13}
+      rotation: {x: -0.00000028225543, y: 0.7482315, z: -0.66343784, w: 0.00000029802322}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000002}
+    - name: foot.R_end
+      parentName: foot.R
+      position: {x: -0, y: 0.0024166368, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_hand.R
+      parentName: hips
+      position: {x: -6.5870054e-10, y: 0.0020092633, z: 0.0032283443}
+      rotation: {x: -0.50000006, y: 0.5, z: -0.5, w: -0.50000006}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: IK_hand.R_end
+      parentName: IK_hand.R
+      position: {x: -0, y: 0.0028229444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_elbow.R
+      parentName: hips
+      position: {x: -0.010791223, y: -0.0008260405, z: 0.0045164116}
+      rotation: {x: -0.50000006, y: 0.5, z: -0.5, w: -0.50000006}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: IK_elbow.R_end
+      parentName: IK_elbow.R
+      position: {x: -0, y: 0.002539389, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_knee.L
+      parentName: Armature
+      position: {x: -0.0012006517, y: -0.010619119, z: 0.0018845743}
+      rotation: {x: -6.123257e-17, y: -0.00000008940697, z: 1, w: 3.3087225e-24}
+      scale: {x: 1.0000007, y: 1, z: 1}
+    - name: IK_knee.L_end
+      parentName: IK_knee.L
+      position: {x: -0, y: 0.0015353119, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_foot.L
+      parentName: Armature
+      position: {x: -0.0012006517, y: 0, z: 0.0002842496}
+      rotation: {x: -0.0000005513414, y: -0.059958547, z: 0.9982009, w: 0.000000033116834}
+      scale: {x: 1, y: 1.0000001, z: 1.0000068}
+    - name: IK_foot.L_end
+      parentName: IK_foot.L
+      position: {x: -0, y: 0.0024166368, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_knee.R
+      parentName: Armature
+      position: {x: 0.0012006517, y: -0.010619119, z: 0.0018845743}
+      rotation: {x: -6.123257e-17, y: -0.00000008940697, z: 1, w: 3.3087225e-24}
+      scale: {x: 1.0000007, y: 1, z: 1}
+    - name: IK_knee.R_end
+      parentName: IK_knee.R
+      position: {x: -0, y: 0.0015353119, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK_foot.R
+      parentName: Armature
+      position: {x: 0.0012006517, y: 0, z: 0.0002842496}
+      rotation: {x: 0.0000005513414, y: -0.059958547, z: 0.9982009, w: -0.000000033116834}
+      scale: {x: 1, y: 1.0000001, z: 1.0000068}
+    - name: IK_foot.R_end
+      parentName: IK_foot.R
+      position: {x: -0, y: 0.0024166368, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monkey
+      parentName: monkey_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
