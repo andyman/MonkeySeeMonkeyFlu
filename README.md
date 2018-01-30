@@ -1,6 +1,8 @@
-# Monkey See MonkeyFlu
+# Monkey See Monkey Flu
 
-Made in 48 hours by The Monkey Team for Global Game Jam 2018 (Honolulu)
+Made in **48 hours** by The Monkey Team for Global Game Jam 2018 (Honolulu). 
+
+*(Due to the time constraints, the code will be messy, models may have poor topology and inefficient UV mapping, and folders will be disorganized. Do not follow this as an example for the proper way to make your project.)*
 
 [Game's page for Global Game Jam 2018](https://globalgamejam.org/2018/games/monkey-see-monkey-flu)
 
